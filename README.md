@@ -1,4 +1,4 @@
-# HW2_Git_and_python
+# HW2_Git_and_python: calculator
 
 
 ## Основное задание
