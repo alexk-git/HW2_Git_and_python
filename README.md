@@ -24,11 +24,10 @@ Example: `5 - 3` or `10.5 * 2.0`!
 - **`division(a, b)`** - division operation;
 
 ### 👨‍💻 Team Structure
-- **Team Lead**: alexk-git
+- **Division & Main**: alexk-git (Team Lead)
 - **Addition**: lvsea00
 - **Subtraction**: KuchukLambat
 - **Multiplication**: Tim-Bulgakov
-- **Division & Main**: alexk-git
 
 ### 📦 Usage
 
