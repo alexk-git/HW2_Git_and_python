@@ -12,16 +12,27 @@ A simple command-line calculator that evaluates mathematical expressions with tw
 ## 📋 Input Format
 
 The program accepts expressions in the format:
-<number><space><operator><space><number>
+`<number><space><operator><space><number>`
 
 All elements must be separated by spaces. Example: `5 - 3` or `10.5 * 2.0`!
 
 ### Core Functions
 
-- **`main()`** - мain function that handles input parsing, operation routing, and result output (developer: **alexk-git**) ;
-- **`addition(a, b)`** - addition operation (developer: **lvsea00**);
-- **`subtraction(a, b)`** - subtraction operation (developer: **KuchukLambat**);
-- **`multiplication(a, b)`** - multiplication operation (developer: **Tim-Bulgakov**);
-- **`division(a, b)`** - division operation (developer: **alexk-git**);
+- **`main()`** - мain function that handles input parsing, operation routing, and result output;
+- **`addition(a, b)`** - addition operation;
+- **`subtraction(a, b)`** - subtraction operation;
+- **`multiplication(a, b)`** - multiplication operation;
+- **`division(a, b)`** - division operation;
 
-  
+  ### Team Structure
+- **Team Lead**: alexk-git
+- **Addition**: lvsea00
+- **Subtraction**: KuchukLambat
+- **Multiplication**: Tim-Bulgakov
+- **Division & Main**: alexk-git
+
+## 📦 Usage
+
+1. Run the program:
+```bash
+python calculator.py```
