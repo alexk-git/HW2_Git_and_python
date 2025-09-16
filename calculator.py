@@ -1,8 +1,25 @@
 import re
 
 def is_expression_valid(expression):
+    '''
+    Checking if expression is in required format:
+    (number)(space)(operator)(space)(number)
+    '''
     pattern = r'^\d+(?:\.\d+)?\s[+\-*/]\s\d+(?:\.\d+)?$'
     return bool(re.match(pattern, expression))
+
+def simple_clean(text):
+    '''
+    Removing backspace symbod (\x08)
+    useful if input was edited
+    '''
+    while '\x08' in text:
+        pos = text.find('\x08')
+        if pos > 0:
+            text = text[:pos-1] + text[pos+1:]
+        else:
+            text = text[1:]
+    return text
 
 def division(a, b):
     '''
