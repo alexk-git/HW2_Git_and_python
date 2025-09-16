@@ -10,6 +10,7 @@ A simple command-line calculator that evaluates mathematical expressions with tw
 
 ### 📋 Input Format
 The program accepts expressions in the format:
+
 `<number><space><operator><space><number>`
 
 All elements must be separated by spaces. Example: `5 - 3` or `10.5 * 2.0`!
@@ -48,7 +49,7 @@ Result of 123 + 345 = 468.0
 
 For effective collaboration and coordination, the team utilized the following communication platforms:
 - **Telegram**: For daily stand-ups, quick discussions, and task coordination;
-  ![Telegram Meeting](img/hw2_sozvon1.jpg)
+  ![Telegram Meeting](imgs/hw2_sozvon1.jpg)
 - **Zoom**: For weekly team meetings, code reviews, and planning sessions;
-  ![Zoom Meeting](img/hw2_sozvon2.jpg)
+  ![Zoom Meeting](imgs/hw2_sozvon2.jpg)
 
