@@ -13,7 +13,8 @@ The program accepts expressions in the format:
 
 `<number><space><operator><space><number>`
 
-All elements must be separated by spaces. Example: `5 - 3` or `10.5 * 2.0`!
+All elements must be separated by spaces.
+Example: `5 - 3` or `10.5 * 2.0`!
 
 ### Core Functions
 - **`main()`** - мain function that handles input parsing, operation routing, and result output;
@@ -48,8 +49,9 @@ Result of 123 + 345 = 468.0
 ### 👥 Team Collaboration
 
 For effective collaboration and coordination, the team utilized the following communication platforms:
-- **Telegram**: For daily stand-ups, quick discussions, and task coordination;
+- **Telegram**: For daily stand-ups, quick discussions, and task coordination:
   ![Telegram Meeting](imgs/hw2_sozvon1.jpg)
-- **Zoom**: For weekly team meetings, code reviews, and planning sessions;
+  
+- **Zoom**: For weekly team meetings, code reviews, and planning sessions:
   ![Zoom Meeting](imgs/hw2_sozvon2.jpg)
 
