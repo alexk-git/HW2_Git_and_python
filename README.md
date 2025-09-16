@@ -18,10 +18,10 @@ All elements must be separated by spaces. Example: `5 - 3` or `10.5 * 2.0`!
 
 ### Core Functions
 
-- **`main()`** - Main function that handles input parsing, operation routing, and result output (developer: **alexk-git**) ;
-- **`addition(a, b)`** - (Developer: **lvsea00**) Performs addition operation;
-- **`subtraction(a, b)`** - (Developer: **KuchukLambat**) Performs subtraction operation;
-- **`multiplication(a, b)`** - (Developer: **Tim-Bulgakov**) Performs multiplication operation;
-- **`division(a, b)`** - (Developer: **alexk-git**) Performs division operation;
+- **`main()`** - мain function that handles input parsing, operation routing, and result output (developer: **alexk-git**) ;
+- **`addition(a, b)`** - addition operation (developer: **lvsea00**);
+- **`subtraction(a, b)`** - subtraction operation (developer: **KuchukLambat**);
+- **`multiplication(a, b)`** - multiplication operation (developer: **Tim-Bulgakov**);
+- **`division(a, b)`** - division operation (developer: **alexk-git**);
 
   
