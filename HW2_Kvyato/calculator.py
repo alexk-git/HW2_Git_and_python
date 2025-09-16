@@ -66,7 +66,6 @@ def main():
         print("Please, enter your expression as 'a <operator> b' <- spaces are impotant!")
         print(f"But your expression is {input_expr}.")
 
-    print(input_expr.split(' '))
 
 if __name__ == "__main__":
 
