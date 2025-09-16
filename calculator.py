@@ -39,6 +39,12 @@ def addition(a, b):
     '''
     return(a + b)
 
+def subtraction(a, b):
+    '''
+    Function returns the difference of a and b.
+    ''' 
+    return (a - b)
+
 def main():
     operators = ["+", "-", "*", "/"]
 
