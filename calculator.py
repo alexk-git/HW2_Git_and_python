@@ -44,6 +44,7 @@ def main():
 
     print('I can calculate one of four operations "+ - * /" on two numbers.')
     input_expr = input("Please, enter your expression as 'a <operator> b': ")
+    input_expr = simple_clean(input_expr)
 
     if is_expression_valid(input_expr):
         expr_lst = input_expr.split(' ')
