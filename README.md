@@ -16,14 +16,14 @@ The program accepts expressions in the format:
 All elements must be separated by spaces.
 Example: `5 - 3` or `10.5 * 2.0`!
 
-### Core Functions
+### 🛠️ Core Functions
 - **`main()`** - мain function that handles input parsing, operation routing, and result output;
 - **`addition(a, b)`** - addition operation;
 - **`subtraction(a, b)`** - subtraction operation;
 - **`multiplication(a, b)`** - multiplication operation;
 - **`division(a, b)`** - division operation;
 
-### Team Structure
+### 👨‍💻 Team Structure
 - **Team Lead**: alexk-git
 - **Addition**: lvsea00
 - **Subtraction**: KuchukLambat
