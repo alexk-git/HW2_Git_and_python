@@ -35,4 +35,10 @@ All elements must be separated by spaces. Example: `5 - 3` or `10.5 * 2.0`!
 
 1. Run the program:
 ```bash
-python calculator.py```
+$ python3 calculator.py
+I can calculate one of four operations "+ - * /" on two numbers.
+Please, enter your expression as 'a <operator> b': 123 + 345
+Result of 123 + 345 = 468.0
+
+
+
