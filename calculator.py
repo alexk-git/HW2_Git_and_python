@@ -11,6 +11,12 @@ def multiplication(a, b):
     '''
     return(a * b)
 
+def addition(a, b):
+    '''
+    Function returns the sum of a and b.
+    '''
+    return(a + b)
+
 def main():
     print('I can calculate one of four operations "+ - * /" on two numbers.')
     input_expr = input("Please, enter your expression as 'a <operator> b':")
